@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1562302825 source:z:\documents\github\c codes for 4th batch\firstc\main.c
+	<stdio.h>
+	<stdlib.h>
+
