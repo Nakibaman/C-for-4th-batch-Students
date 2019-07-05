@@ -1,0 +1,19 @@
+     
+    C data types
+    23
+    -5   = integer
+    34.5 
+   -5.5  = float
+
+
+    3.14165783764373647463763476374634   = double
+    
+
+
+    a  = charecter
+    '1'=                      1
+    c#,java,c++
+    charecter   integer    float  double
+    char        int        
+byte  1           2           4      8
+bit   8           16         32      64
