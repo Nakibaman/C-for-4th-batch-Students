@@ -1,0 +1,25 @@
+C programming Excercises
+
+1.Write a C program to check whether a character is an alphabet, digit or special character.
+
+2.Write a program in C to read any Month Number in integer and display the number of days for this month.
+	Test Data : 
+	7 
+	Expected Output :
+	Month have 31 days
+
+3.Write a program in C to perform a simple calculation. 
+	Test Date and Expected Output 
+	Enter the first Integer :10 
+	Enter the second Integer :2 
+
+	Here are the options : 
+	1-Addition. 
+	2-Substraction. 
+	3-Multiplication. 
+	4-Division. 
+	5-Exit. 
+
+	Input your choice :3 
+	The Multiplication of 10 and 2 is: 20
+
