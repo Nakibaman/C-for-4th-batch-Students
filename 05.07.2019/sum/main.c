@@ -10,5 +10,6 @@ int main()
     scanf("%d",&b);
     c=a+b;
     printf("The sum is %d",c);
+    printf("habijabi");
     return 0;
 }
