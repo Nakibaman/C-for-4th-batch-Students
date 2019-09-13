@@ -50,14 +50,23 @@ int main()
         }
         printf("\n");
     }
-    int a3[r1][c1];
+    int r,c;
+    if(r1>r2)
+        r=r1;
+    else
+        r=r2;
+     if(c1>c2)
+        c=c1;
+    else
+        c=c2;
+    int a3[r][c];
     printf("Addition result is -\n");
-    for(i=0;i<r1;i++)
+    for(i=0;i<r;i++)
     {
-        for(j=0;j<c1;j++)
+        for(j=0;j<c;j++)
         {
             a3[i][j]=a1[i][j]+a2[i][j];
-            printf("%d",a3[i][j]);
+            printf("%d ",a3[i][j]);
         }
         printf("\n");
     }
