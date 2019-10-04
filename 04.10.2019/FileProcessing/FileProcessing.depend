@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1570168952 source:z:\documents\github\c-for-4th-batch-students\04.10.2019\fileprocessing\main.c
+	<stdio.h>
+	<stdlib.h>
+
